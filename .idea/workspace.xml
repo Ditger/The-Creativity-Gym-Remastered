@@ -2,225 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d1b614e-b2eb-4854-9465-752c2beed656" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-Se/coding-olympics-SUMMER.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4792.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4819.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4823.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4836.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4838.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4843.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4867.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4869.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4870.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4873.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4875.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4879.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4895.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4901.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4909.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4912.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4923.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4927.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4930.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4931.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4933.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4946.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4955.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/_DSC4963.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Coding-Olympics/Coding-Olympics-We/codingolympics.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-026.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-027.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1-028.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1b-002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1b-004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1b-005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/1/imdcafe1b-006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/imdcafe2-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/2/pixelbootcamp_fb-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5195.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5201.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5202.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5203.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5206.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5207.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5208.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5210.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5211.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5215.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5216.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5217.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5219.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/20150326-_DSC5220.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/3/IMD-cafe-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_030.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_033.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_036.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_037.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_039.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_041.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_044.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_045.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_046.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_047.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_051.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_059.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_060.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_061.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_062.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_064.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/IMD_CAFE_067.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Cafe/4/imd-cafe-4-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/IMD-invites-dailybits.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Dailybits/dailybits-27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/KD/IMD-invites-kodel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/invitemusketon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/IMD-Invites/Musketon/musketon-011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events/Officiele-opening/gym-017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/android-chrome-384x384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo_gym.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow/gym-006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow/gym-012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow/gym-013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow/slideshow1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow/slideshow2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow/slideshow3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow/slideshow4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tmoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/scss/partials/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/scss/partials/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/scss/responsive/_extra_large.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/scss/responsive/_large.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/scss/responsive/_medium.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/scss/responsive/_small.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/jquery-migrate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/config.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick-theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slick/slick.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/scss/partials/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/partials/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,11 +51,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/styles/css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -262,7 +78,7 @@
       <updated>1590846098465</updated>
       <workItem from="1590846102047" duration="298000" />
       <workItem from="1590846836041" duration="876000" />
-      <workItem from="1590847715144" duration="519000" />
+      <workItem from="1590847715144" duration="3246000" />
     </task>
     <servers />
   </component>
