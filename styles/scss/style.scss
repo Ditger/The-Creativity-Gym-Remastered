@@ -1,0 +1,38 @@
+/* =====================================
+        Variables
+====================================== */
+
+
+/* =====================================
+        Styling
+====================================== */
+
+/* =====================================
+        Imports
+====================================== */
+@import "partials/header";
+@import "partials/footer";
+
+/* =====================================
+        Responsiveness
+====================================== */
+
+/*  Small Screens (ex. Phones) and (min-width: 576px) */
+@media screen  and (max-width: 768px){
+  @import "responsive/small";
+}
+
+/*  Medium Screens (ex. Tablets)  */
+@media screen and (min-width: 768px) and (max-width: 992px){
+  @import "responsive/medium";
+}
+
+/*  Large Screens (ex. Desktops)  */
+@media screen and (min-width: 992px) and (max-width: 1200px){
+  @import "responsive/large";
+}
+
+/*  Extra Large Screens (ex. Large desktops)  */
+@media screen and (min-width: 1200px) {
+  @import "responsive/extra_large";
+}
