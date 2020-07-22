@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9d1b614e-b2eb-4854-9465-752c2beed656" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/events.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manifesto.php" beforeDir="false" afterPath="$PROJECT_DIR$/manifesto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/over-ons.php" beforeDir="false" afterPath="$PROJECT_DIR$/over-ons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/style.scss" afterDir="false" />
@@ -59,7 +61,7 @@
       <workItem from="1590847715144" duration="3763000" />
       <workItem from="1592183704157" duration="575000" />
       <workItem from="1595411344363" duration="6986000" />
-      <workItem from="1595423011691" duration="3149000" />
+      <workItem from="1595423011691" duration="4028000" />
     </task>
     <servers />
   </component>

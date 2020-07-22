@@ -1,14 +1,16 @@
 <?php include "includes/header.php" ?>
 <div class="container">
+    <div class="jumbotron text-center mt-5">
+        <h1>The Creativity Gym</h1>
+
+    </div>
+
     <div class="row mt-4">
         <div class="col-md-6">
             <img src="images/events/Officiele-opening/gym-013.jpg" class="img-fluid" alt="">
         </div>
 
         <div class="col-md-6">
-            <h1>
-                The Creativity Gym
-            </h1>
             <p>
                 De Creativity Gym is een creative ruimte die werd bedacht en ingericht door drie docenten uit de opleiding Interactive Multimedia Design aan de Thomas More hogeschool te Mechelen. Robby Vanelderen, David Heerinckx en Joris Hens besloten de koppen bij elkaar te steken om een leegstaande turnzaal om te bouwen tot de ultieme co-working space waar creatieve developers en designers samenkomen om te werken aan hun projecten.
                 Tijdens de zomervakantie - die normaal gezien heilig is in onderwijskringen 😉 - werden de handen uit de mouwen gestoken samen met hulpvaardige studenten en medewerkers van de hogeschool.
