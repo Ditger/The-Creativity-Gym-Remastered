@@ -23,10 +23,11 @@ body {
 .btn-custom {
   background-color: transparent;
   border: 1px solid black;
+  border-radius: 0;
 
   &:hover {
       -webkit-transition-duration: 0.3s;
-      transition-duration: 0.3s;
+      transition-duration: 0.5s;
       background-color: $orangeColor;
       color: $whiteColor;
       border-color: transparent;
@@ -40,11 +41,16 @@ body {
   margin: 25px;
 
   a {
-    margin-bottom: 25px;
+    margin-bottom: 50px;
     color: $blackColor;
+    border-bottom: 2px solid $blackColor;
 
     &:hover {
-      border-bottom: 2px solid $orangeColor;
+      background-color: $orangeColor;
+      padding: 25px;
+      text-decoration: none;
+      color: $whiteColor;
+      transition-duration: .5s;
     }
   }
 }

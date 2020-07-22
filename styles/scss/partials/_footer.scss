@@ -29,3 +29,20 @@ textarea {
 textarea[rows] {
   height: auto;
 }
+
+.social-item {
+  margin: 25px 0;
+}
+
+.social-link a {
+  border:  2px solid black;
+  padding: 25px 75px;
+  color: $blackColor;
+
+  &:hover {
+    background-color: $orangeColor;
+    color: $whiteColor;
+    text-decoration: none;
+    border-color: transparent;
+  }
+}

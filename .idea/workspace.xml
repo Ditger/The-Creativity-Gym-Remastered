@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d1b614e-b2eb-4854-9465-752c2beed656" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifesto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/over-ons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/scss/partials/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/scss/partials/_footer.scss" afterDir="false" />
@@ -59,7 +65,7 @@
       <workItem from="1590846836041" duration="876000" />
       <workItem from="1590847715144" duration="3763000" />
       <workItem from="1592183704157" duration="575000" />
-      <workItem from="1595411344363" duration="2235000" />
+      <workItem from="1595411344363" duration="4468000" />
     </task>
     <servers />
   </component>
