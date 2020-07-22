@@ -1,15 +1,54 @@
 /* =====================================
         Variables
 ====================================== */
+@import url('https://fonts.googleapis.com/css?family=Nunito');
 
+
+$whiteColor:  #fff;
+$blackColor:  #000;
+$orangeColor: #d3532c;
 
 /* =====================================
         Styling
 ====================================== */
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
 .sliderImage img{
   width: 75%;
   margin: 0 auto;
 }
+
+.btn-custom {
+  background-color: transparent;
+  border: 1px solid black;
+
+  &:hover {
+      -webkit-transition-duration: 0.3s;
+      transition-duration: 0.3s;
+      background-color: $orangeColor;
+      color: $whiteColor;
+      border-color: transparent;
+  }
+}
+
+/* Events */
+.eventContainer {
+  border: 2px solid $blackColor;
+  padding: 50px 25px;
+  margin: 25px;
+
+  a {
+    margin-bottom: 25px;
+    color: $blackColor;
+
+    &:hover {
+      border-bottom: 2px solid $orangeColor;
+    }
+  }
+}
+
 
 /* =====================================
         Imports
